@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joshua.lin\\SHOOTER\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D05A0EC-6B9B-EE07-8B5F-7B8E71C159DB}|Assembly-CSharp.csproj|c:\\users\\joshua.lin\\shooter\\assets\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D05A0EC-6B9B-EE07-8B5F-7B8E71C159DB}|Assembly-CSharp.csproj|solutionrelative:assets\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D05A0EC-6B9B-EE07-8B5F-7B8E71C159DB}|Assembly-CSharp.csproj|C:\\Users\\joshua.lin\\SHOOTER\\assets\\cursorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D05A0EC-6B9B-EE07-8B5F-7B8E71C159DB}|Assembly-CSharp.csproj|solutionrelative:assets\\cursorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D05A0EC-6B9B-EE07-8B5F-7B8E71C159DB}|Assembly-CSharp.csproj|c:\\users\\joshua.lin\\shooter\\assets\\shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D05A0EC-6B9B-EE07-8B5F-7B8E71C159DB}|Assembly-CSharp.csproj|solutionrelative:assets\\shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D05A0EC-6B9B-EE07-8B5F-7B8E71C159DB}|Assembly-CSharp.csproj|C:\\Users\\joshua.lin\\SHOOTER\\assets\\cf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D05A0EC-6B9B-EE07-8B5F-7B8E71C159DB}|Assembly-CSharp.csproj|solutionrelative:assets\\cf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joshua.lin\\SHOOTER\\Assets\\CameraFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CameraFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shoot.cs",
+              "DocumentMoniker": "C:\\Users\\joshua.lin\\SHOOTER\\Assets\\Shoot.cs",
+              "RelativeDocumentMoniker": "Assets\\Shoot.cs",
+              "ToolTip": "C:\\Users\\joshua.lin\\SHOOTER\\Assets\\Shoot.cs",
+              "RelativeToolTip": "Assets\\Shoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T16:24:45.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CF.cs",
+              "DocumentMoniker": "C:\\Users\\joshua.lin\\SHOOTER\\Assets\\CF.cs",
+              "RelativeDocumentMoniker": "Assets\\CF.cs",
+              "ToolTip": "C:\\Users\\joshua.lin\\SHOOTER\\Assets\\CF.cs",
+              "RelativeToolTip": "Assets\\CF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T20:41:21.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\joshua.lin\\SHOOTER\\Assets\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraFollow.cs",
+              "ToolTip": "C:\\Users\\joshua.lin\\SHOOTER\\Assets\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\CameraFollow.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T18:45:51.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CursorControl.cs",
+              "DocumentMoniker": "C:\\Users\\joshua.lin\\SHOOTER\\Assets\\CursorControl.cs",
+              "RelativeDocumentMoniker": "Assets\\CursorControl.cs",
+              "ToolTip": "C:\\Users\\joshua.lin\\SHOOTER\\Assets\\CursorControl.cs",
+              "RelativeToolTip": "Assets\\CursorControl.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T20:28:52.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerControl.cs",
+              "DocumentMoniker": "C:\\Users\\joshua.lin\\SHOOTER\\Assets\\PlayerControl.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerControl.cs",
+              "ToolTip": "C:\\Users\\joshua.lin\\SHOOTER\\Assets\\PlayerControl.cs",
+              "RelativeToolTip": "Assets\\PlayerControl.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAcwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:49:23.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
